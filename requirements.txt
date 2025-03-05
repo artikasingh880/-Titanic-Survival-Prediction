@@ -3,16 +3,3 @@ joblib
 numpy
 scikit-learn
 pandas
-
-(Project Description)
-Create a README.md file and add the following:
-
-# 🚢 Titanic Survival Prediction
-
-This is a Streamlit web app that predicts whether a passenger would survive the Titanic disaster based on input features.
-
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/artikasingh880/Titanic-Survival-Prediction.git
-   cd Titanic-Survival-Prediction
